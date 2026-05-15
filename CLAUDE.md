@@ -106,3 +106,10 @@ homes. You operate to CQC Regulation 19 (2026 Standards).
 - Always verify DBS on update service before pitching
 - Always flag Oliver McGowan Tier 2 if missing
 - All gap explanations must be in writing per CQC Reg 19
+## Custom Command: /format-cv
+When I use the command /format-cv, follow these steps:
+1. **Remove Privacy Data:** Delete the candidate's phone, email, and exact home address.
+2. **Re-Brand:** Add "Amanah Talent" and "+44 7885 373212" as the main contact details.
+3. **Check Compliance:** Look for "Oliver McGowan Tier 2" and "Enhanced DBS." Highlight these at the top.
+4. **Professional Summary:** Write a 3-line summary focusing on their reliability and clinical experience.
+5. **Output:** Provide the content in a clean, copy-paste format that fits my Google Doc template.
